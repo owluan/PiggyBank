@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "69a94eda-afff-4437-9c9d-391d4531a3a1": {
+      "ProjectGuid": "69a94eda-afff-4437-9c9d-391d4531a3a1",
+      "DisplayName": "PiggyBank",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

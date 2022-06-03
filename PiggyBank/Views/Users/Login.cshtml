@@ -1,0 +1,31 @@
+﻿@model User
+
+@{
+    Layout = "../Shared/_LayoutLogin.cshtml";
+}
+<div class="accountiner" style="background-color:rgba(239, 239, 239, 0.80); border-radius:10px; padding:20px; width:300px;">
+    @{
+        try
+        {
+            if (TempData["InvalidLoginMessage"].ToString() != null)
+            {
+                <div class="alert alert-danger">
+                    <strong><center>@TempData["InvalidLoginMessage"]</center></strong>
+                </div>
+            }
+        }
+        catch { }
+    }
+    <form asp-controller="Users" asp-action="ValidarLogin" autocomplete="off">
+        <div class="form-group">
+            <label for="email">Email:</label>
+            <input type="email" class="form-control" asp-for="Email">
+        </div>
+        <div class="form-group">
+            <label for="pwd">Password:</label>
+            <input type="password" class="form-control" asp-for="Password">
+        </div>
+        <button type="submit" class="btn btn-primary btn-block" style="align-self:auto;">Sign In</button>
+        <a class="btn btn-success btn-block" style="border-style:hidden; color:aliceblue;" href="/Users/Register">Sign Up</a>
+    </form>
+</div>

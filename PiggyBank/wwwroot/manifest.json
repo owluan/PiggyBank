@@ -1,0 +1,20 @@
+{
+    "name": "Piggy Bank",
+    "short_name": "Piggy Bank",
+    "description": "",
+  
+    "icons": [
+      {
+        "src": "/img/piggyicon192x192.png",
+        "sizes": "192x192"
+      },
+  
+      {
+        "src": "/img/piggyicon512x512.png",
+        "sizes": "512x512"
+      }
+    ],
+  
+    "display": "standalone",
+    "start_url": "/"
+  }

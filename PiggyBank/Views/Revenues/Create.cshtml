@@ -1,0 +1,45 @@
+﻿@model PiggyBank.Models.ViewModels.RevenueFormViewModel
+
+@{
+    ViewData["Title"] = "Register Revenue";
+}
+
+<h3>@ViewData["Title"]</h3>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="All" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Revenue.Name" class="control-label"></label>
+                <input asp-for="Revenue.Name" class="form-control" />
+                <span asp-validation-for="Revenue.Name" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Revenue.Date" class="control-label"></label>
+                <input asp-for="Revenue.Date" class="form-control" />
+                <span asp-validation-for="Revenue.Date" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Revenue.Value" class="control-label"></label>
+                <input asp-for="Revenue.Value" class="form-control" />
+                <span asp-validation-for="Revenue.Value" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Revenue.AccountId" class="control-label"></label>
+                <select asp-for="Revenue.AccountId" asp-items="@(new SelectList(Model.Accounts,"Id","Name"))" class="form-control"></select>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Register" class="btn btn-success" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to Revenues</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

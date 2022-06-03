@@ -1,0 +1,295 @@
+C:\Users\Luan\Downloads\ControleFinanceiro\PiggyBank\PiggyBank\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\Luan\Downloads\ControleFinanceiro\PiggyBank\PiggyBank\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\Luan\Downloads\ControleFinanceiro\PiggyBank\PiggyBank\bin\Debug\netcoreapp2.2\PiggyBank.deps.json
+C:\Users\Luan\Downloads\ControleFinanceiro\PiggyBank\PiggyBank\bin\Debug\netcoreapp2.2\PiggyBank.runtimeconfig.json
+C:\Users\Luan\Downloads\ControleFinanceiro\PiggyBank\PiggyBank\bin\Debug\netcoreapp2.2\PiggyBank.runtimeconfig.dev.json
+C:\Users\Luan\Downloads\ControleFinanceiro\PiggyBank\PiggyBank\bin\Debug\netcoreapp2.2\PiggyBank.dll
+C:\Users\Luan\Downloads\ControleFinanceiro\PiggyBank\PiggyBank\bin\Debug\netcoreapp2.2\PiggyBank.pdb
+C:\Users\Luan\Downloads\ControleFinanceiro\PiggyBank\PiggyBank\bin\Debug\netcoreapp2.2\PiggyBank.Views.dll
+C:\Users\Luan\Downloads\ControleFinanceiro\PiggyBank\PiggyBank\bin\Debug\netcoreapp2.2\PiggyBank.Views.pdb
+C:\Users\Luan\Downloads\ControleFinanceiro\PiggyBank\PiggyBank\obj\Debug\netcoreapp2.2\PiggyBank.csproj.AssemblyReference.cache
+C:\Users\Luan\Downloads\ControleFinanceiro\PiggyBank\PiggyBank\obj\Debug\netcoreapp2.2\PiggyBank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luan\Downloads\ControleFinanceiro\PiggyBank\PiggyBank\obj\Debug\netcoreapp2.2\PiggyBank.AssemblyInfoInputs.cache
+C:\Users\Luan\Downloads\ControleFinanceiro\PiggyBank\PiggyBank\obj\Debug\netcoreapp2.2\PiggyBank.AssemblyInfo.cs
+C:\Users\Luan\Downloads\ControleFinanceiro\PiggyBank\PiggyBank\obj\Debug\netcoreapp2.2\PiggyBank.csproj.CoreCompileInputs.cache
+C:\Users\Luan\Downloads\ControleFinanceiro\PiggyBank\PiggyBank\obj\Debug\netcoreapp2.2\PiggyBank.RazorAssemblyInfo.cache
+C:\Users\Luan\Downloads\ControleFinanceiro\PiggyBank\PiggyBank\obj\Debug\netcoreapp2.2\PiggyBank.RazorAssemblyInfo.cs
+C:\Users\Luan\Downloads\ControleFinanceiro\PiggyBank\PiggyBank\obj\Debug\netcoreapp2.2\PiggyBank.TagHelpers.input.cache
+C:\Users\Luan\Downloads\ControleFinanceiro\PiggyBank\PiggyBank\obj\Debug\netcoreapp2.2\PiggyBank.TagHelpers.output.cache
+C:\Users\Luan\Downloads\ControleFinanceiro\PiggyBank\PiggyBank\obj\Debug\netcoreapp2.2\PiggyBank.RazorCoreGenerate.cache
+C:\Users\Luan\Downloads\ControleFinanceiro\PiggyBank\PiggyBank\obj\Debug\netcoreapp2.2\Razor\Views\Contas\Create.cshtml.g.cs
+C:\Users\Luan\Downloads\ControleFinanceiro\PiggyBank\PiggyBank\obj\Debug\netcoreapp2.2\Razor\Views\Contas\Dashboard.cshtml.g.cs
+C:\Users\Luan\Downloads\ControleFinanceiro\PiggyBank\PiggyBank\obj\Debug\netcoreapp2.2\Razor\Views\Contas\Delete.cshtml.g.cs
+C:\Users\Luan\Downloads\ControleFinanceiro\PiggyBank\PiggyBank\obj\Debug\netcoreapp2.2\Razor\Views\Contas\DespesaSearch.cshtml.g.cs
+C:\Users\Luan\Downloads\ControleFinanceiro\PiggyBank\PiggyBank\obj\Debug\netcoreapp2.2\Razor\Views\Contas\Details.cshtml.g.cs
+C:\Users\Luan\Downloads\ControleFinanceiro\PiggyBank\PiggyBank\obj\Debug\netcoreapp2.2\Razor\Views\Contas\Edit.cshtml.g.cs
+C:\Users\Luan\Downloads\ControleFinanceiro\PiggyBank\PiggyBank\obj\Debug\netcoreapp2.2\Razor\Views\Contas\Index.cshtml.g.cs
+C:\Users\Luan\Downloads\ControleFinanceiro\PiggyBank\PiggyBank\obj\Debug\netcoreapp2.2\Razor\Views\Contas\ReceitaSearch.cshtml.g.cs
+C:\Users\Luan\Downloads\ControleFinanceiro\PiggyBank\PiggyBank\obj\Debug\netcoreapp2.2\Razor\Views\Contas\Records.cshtml.g.cs
+C:\Users\Luan\Downloads\ControleFinanceiro\PiggyBank\PiggyBank\obj\Debug\netcoreapp2.2\Razor\Views\Despesas\Create.cshtml.g.cs
+C:\Users\Luan\Downloads\ControleFinanceiro\PiggyBank\PiggyBank\obj\Debug\netcoreapp2.2\Razor\Views\Despesas\Delete.cshtml.g.cs
+C:\Users\Luan\Downloads\ControleFinanceiro\PiggyBank\PiggyBank\obj\Debug\netcoreapp2.2\Razor\Views\Despesas\Details.cshtml.g.cs
+C:\Users\Luan\Downloads\ControleFinanceiro\PiggyBank\PiggyBank\obj\Debug\netcoreapp2.2\Razor\Views\Despesas\Edit.cshtml.g.cs
+C:\Users\Luan\Downloads\ControleFinanceiro\PiggyBank\PiggyBank\obj\Debug\netcoreapp2.2\Razor\Views\Despesas\Index.cshtml.g.cs
+C:\Users\Luan\Downloads\ControleFinanceiro\PiggyBank\PiggyBank\obj\Debug\netcoreapp2.2\Razor\Views\Home\Help.cshtml.g.cs
+C:\Users\Luan\Downloads\ControleFinanceiro\PiggyBank\PiggyBank\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Luan\Downloads\ControleFinanceiro\PiggyBank\PiggyBank\obj\Debug\netcoreapp2.2\Razor\Views\Home\Menu.cshtml.g.cs
+C:\Users\Luan\Downloads\ControleFinanceiro\PiggyBank\PiggyBank\obj\Debug\netcoreapp2.2\Razor\Views\Receitas\Create.cshtml.g.cs
+C:\Users\Luan\Downloads\ControleFinanceiro\PiggyBank\PiggyBank\obj\Debug\netcoreapp2.2\Razor\Views\Receitas\Delete.cshtml.g.cs
+C:\Users\Luan\Downloads\ControleFinanceiro\PiggyBank\PiggyBank\obj\Debug\netcoreapp2.2\Razor\Views\Receitas\Details.cshtml.g.cs
+C:\Users\Luan\Downloads\ControleFinanceiro\PiggyBank\PiggyBank\obj\Debug\netcoreapp2.2\Razor\Views\Receitas\Edit.cshtml.g.cs
+C:\Users\Luan\Downloads\ControleFinanceiro\PiggyBank\PiggyBank\obj\Debug\netcoreapp2.2\Razor\Views\Receitas\Index.cshtml.g.cs
+C:\Users\Luan\Downloads\ControleFinanceiro\PiggyBank\PiggyBank\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Luan\Downloads\ControleFinanceiro\PiggyBank\PiggyBank\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\Luan\Downloads\ControleFinanceiro\PiggyBank\PiggyBank\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Luan\Downloads\ControleFinanceiro\PiggyBank\PiggyBank\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LayoutLogin.cshtml.g.cs
+C:\Users\Luan\Downloads\ControleFinanceiro\PiggyBank\PiggyBank\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Luan\Downloads\ControleFinanceiro\PiggyBank\PiggyBank\obj\Debug\netcoreapp2.2\Razor\Views\Usuarios\Edit.cshtml.g.cs
+C:\Users\Luan\Downloads\ControleFinanceiro\PiggyBank\PiggyBank\obj\Debug\netcoreapp2.2\Razor\Views\Usuarios\Login.cshtml.g.cs
+C:\Users\Luan\Downloads\ControleFinanceiro\PiggyBank\PiggyBank\obj\Debug\netcoreapp2.2\Razor\Views\Usuarios\Register.cshtml.g.cs
+C:\Users\Luan\Downloads\ControleFinanceiro\PiggyBank\PiggyBank\obj\Debug\netcoreapp2.2\Razor\Views\Usuarios\Success.cshtml.g.cs
+C:\Users\Luan\Downloads\ControleFinanceiro\PiggyBank\PiggyBank\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Luan\Downloads\ControleFinanceiro\PiggyBank\PiggyBank\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Luan\Downloads\ControleFinanceiro\PiggyBank\PiggyBank\obj\Debug\netcoreapp2.2\PiggyBank.RazorTargetAssemblyInfo.cache
+C:\Users\Luan\Downloads\ControleFinanceiro\PiggyBank\PiggyBank\obj\Debug\netcoreapp2.2\PiggyBank.RazorTargetAssemblyInfo.cs
+C:\Users\Luan\Downloads\ControleFinanceiro\PiggyBank\PiggyBank\obj\Debug\netcoreapp2.2\PiggyBank.Views.pdb
+C:\Users\Luan\Downloads\ControleFinanceiro\PiggyBank\PiggyBank\obj\Debug\netcoreapp2.2\PiggyBank.dll
+C:\Users\Luan\Downloads\ControleFinanceiro\PiggyBank\PiggyBank\obj\Debug\netcoreapp2.2\PiggyBank.pdb
+C:\Users\Luan\Downloads\ControleFinanceiro\PiggyBank\PiggyBank\obj\Debug\netcoreapp2.2\PiggyBank.genruntimeconfig.cache
+C:\Users\Luan\Downloads\ControleFinanceiro\PiggyBank\PiggyBank\obj\Debug\netcoreapp2.2\PiggyBank.csproj.CopyComplete
+C:\Users\Luan\Desktop\Projetos\PiggyBank\PiggyBank\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\Luan\Desktop\Projetos\PiggyBank\PiggyBank\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\Luan\Desktop\Projetos\PiggyBank\PiggyBank\bin\Debug\netcoreapp2.2\PiggyBank.deps.json
+C:\Users\Luan\Desktop\Projetos\PiggyBank\PiggyBank\bin\Debug\netcoreapp2.2\PiggyBank.runtimeconfig.json
+C:\Users\Luan\Desktop\Projetos\PiggyBank\PiggyBank\bin\Debug\netcoreapp2.2\PiggyBank.runtimeconfig.dev.json
+C:\Users\Luan\Desktop\Projetos\PiggyBank\PiggyBank\bin\Debug\netcoreapp2.2\PiggyBank.dll
+C:\Users\Luan\Desktop\Projetos\PiggyBank\PiggyBank\bin\Debug\netcoreapp2.2\PiggyBank.pdb
+C:\Users\Luan\Desktop\Projetos\PiggyBank\PiggyBank\bin\Debug\netcoreapp2.2\PiggyBank.Views.dll
+C:\Users\Luan\Desktop\Projetos\PiggyBank\PiggyBank\bin\Debug\netcoreapp2.2\PiggyBank.Views.pdb
+C:\Users\Luan\Desktop\Projetos\PiggyBank\PiggyBank\obj\Debug\netcoreapp2.2\PiggyBank.csproj.AssemblyReference.cache
+C:\Users\Luan\Desktop\Projetos\PiggyBank\PiggyBank\obj\Debug\netcoreapp2.2\PiggyBank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luan\Desktop\Projetos\PiggyBank\PiggyBank\obj\Debug\netcoreapp2.2\PiggyBank.AssemblyInfoInputs.cache
+C:\Users\Luan\Desktop\Projetos\PiggyBank\PiggyBank\obj\Debug\netcoreapp2.2\PiggyBank.AssemblyInfo.cs
+C:\Users\Luan\Desktop\Projetos\PiggyBank\PiggyBank\obj\Debug\netcoreapp2.2\PiggyBank.csproj.CoreCompileInputs.cache
+C:\Users\Luan\Desktop\Projetos\PiggyBank\PiggyBank\obj\Debug\netcoreapp2.2\PiggyBank.RazorAssemblyInfo.cache
+C:\Users\Luan\Desktop\Projetos\PiggyBank\PiggyBank\obj\Debug\netcoreapp2.2\PiggyBank.RazorAssemblyInfo.cs
+C:\Users\Luan\Desktop\Projetos\PiggyBank\PiggyBank\obj\Debug\netcoreapp2.2\PiggyBank.TagHelpers.input.cache
+C:\Users\Luan\Desktop\Projetos\PiggyBank\PiggyBank\obj\Debug\netcoreapp2.2\PiggyBank.TagHelpers.output.cache
+C:\Users\Luan\Desktop\Projetos\PiggyBank\PiggyBank\obj\Debug\netcoreapp2.2\PiggyBank.RazorCoreGenerate.cache
+C:\Users\Luan\Desktop\Projetos\PiggyBank\PiggyBank\obj\Debug\netcoreapp2.2\Razor\Views\Contas\Create.cshtml.g.cs
+C:\Users\Luan\Desktop\Projetos\PiggyBank\PiggyBank\obj\Debug\netcoreapp2.2\Razor\Views\Contas\Dashboard.cshtml.g.cs
+C:\Users\Luan\Desktop\Projetos\PiggyBank\PiggyBank\obj\Debug\netcoreapp2.2\Razor\Views\Contas\Delete.cshtml.g.cs
+C:\Users\Luan\Desktop\Projetos\PiggyBank\PiggyBank\obj\Debug\netcoreapp2.2\Razor\Views\Contas\DespesaSearch.cshtml.g.cs
+C:\Users\Luan\Desktop\Projetos\PiggyBank\PiggyBank\obj\Debug\netcoreapp2.2\Razor\Views\Contas\Details.cshtml.g.cs
+C:\Users\Luan\Desktop\Projetos\PiggyBank\PiggyBank\obj\Debug\netcoreapp2.2\Razor\Views\Contas\Edit.cshtml.g.cs
+C:\Users\Luan\Desktop\Projetos\PiggyBank\PiggyBank\obj\Debug\netcoreapp2.2\Razor\Views\Contas\Index.cshtml.g.cs
+C:\Users\Luan\Desktop\Projetos\PiggyBank\PiggyBank\obj\Debug\netcoreapp2.2\Razor\Views\Contas\ReceitaSearch.cshtml.g.cs
+C:\Users\Luan\Desktop\Projetos\PiggyBank\PiggyBank\obj\Debug\netcoreapp2.2\Razor\Views\Contas\Records.cshtml.g.cs
+C:\Users\Luan\Desktop\Projetos\PiggyBank\PiggyBank\obj\Debug\netcoreapp2.2\Razor\Views\Despesas\Create.cshtml.g.cs
+C:\Users\Luan\Desktop\Projetos\PiggyBank\PiggyBank\obj\Debug\netcoreapp2.2\Razor\Views\Despesas\Delete.cshtml.g.cs
+C:\Users\Luan\Desktop\Projetos\PiggyBank\PiggyBank\obj\Debug\netcoreapp2.2\Razor\Views\Despesas\Details.cshtml.g.cs
+C:\Users\Luan\Desktop\Projetos\PiggyBank\PiggyBank\obj\Debug\netcoreapp2.2\Razor\Views\Despesas\Edit.cshtml.g.cs
+C:\Users\Luan\Desktop\Projetos\PiggyBank\PiggyBank\obj\Debug\netcoreapp2.2\Razor\Views\Despesas\Index.cshtml.g.cs
+C:\Users\Luan\Desktop\Projetos\PiggyBank\PiggyBank\obj\Debug\netcoreapp2.2\Razor\Views\Home\Help.cshtml.g.cs
+C:\Users\Luan\Desktop\Projetos\PiggyBank\PiggyBank\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Luan\Desktop\Projetos\PiggyBank\PiggyBank\obj\Debug\netcoreapp2.2\Razor\Views\Home\Menu.cshtml.g.cs
+C:\Users\Luan\Desktop\Projetos\PiggyBank\PiggyBank\obj\Debug\netcoreapp2.2\Razor\Views\Receitas\Create.cshtml.g.cs
+C:\Users\Luan\Desktop\Projetos\PiggyBank\PiggyBank\obj\Debug\netcoreapp2.2\Razor\Views\Receitas\Delete.cshtml.g.cs
+C:\Users\Luan\Desktop\Projetos\PiggyBank\PiggyBank\obj\Debug\netcoreapp2.2\Razor\Views\Receitas\Details.cshtml.g.cs
+C:\Users\Luan\Desktop\Projetos\PiggyBank\PiggyBank\obj\Debug\netcoreapp2.2\Razor\Views\Receitas\Edit.cshtml.g.cs
+C:\Users\Luan\Desktop\Projetos\PiggyBank\PiggyBank\obj\Debug\netcoreapp2.2\Razor\Views\Receitas\Index.cshtml.g.cs
+C:\Users\Luan\Desktop\Projetos\PiggyBank\PiggyBank\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Luan\Desktop\Projetos\PiggyBank\PiggyBank\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\Luan\Desktop\Projetos\PiggyBank\PiggyBank\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Luan\Desktop\Projetos\PiggyBank\PiggyBank\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LayoutLogin.cshtml.g.cs
+C:\Users\Luan\Desktop\Projetos\PiggyBank\PiggyBank\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Luan\Desktop\Projetos\PiggyBank\PiggyBank\obj\Debug\netcoreapp2.2\Razor\Views\Usuarios\Edit.cshtml.g.cs
+C:\Users\Luan\Desktop\Projetos\PiggyBank\PiggyBank\obj\Debug\netcoreapp2.2\Razor\Views\Usuarios\Login.cshtml.g.cs
+C:\Users\Luan\Desktop\Projetos\PiggyBank\PiggyBank\obj\Debug\netcoreapp2.2\Razor\Views\Usuarios\Register.cshtml.g.cs
+C:\Users\Luan\Desktop\Projetos\PiggyBank\PiggyBank\obj\Debug\netcoreapp2.2\Razor\Views\Usuarios\Success.cshtml.g.cs
+C:\Users\Luan\Desktop\Projetos\PiggyBank\PiggyBank\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Luan\Desktop\Projetos\PiggyBank\PiggyBank\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Luan\Desktop\Projetos\PiggyBank\PiggyBank\obj\Debug\netcoreapp2.2\PiggyBank.RazorTargetAssemblyInfo.cache
+C:\Users\Luan\Desktop\Projetos\PiggyBank\PiggyBank\obj\Debug\netcoreapp2.2\PiggyBank.RazorTargetAssemblyInfo.cs
+C:\Users\Luan\Desktop\Projetos\PiggyBank\PiggyBank\obj\Debug\netcoreapp2.2\PiggyBank.Views.pdb
+C:\Users\Luan\Desktop\Projetos\PiggyBank\PiggyBank\obj\Debug\netcoreapp2.2\PiggyBank.dll
+C:\Users\Luan\Desktop\Projetos\PiggyBank\PiggyBank\obj\Debug\netcoreapp2.2\PiggyBank.pdb
+C:\Users\Luan\Desktop\Projetos\PiggyBank\PiggyBank\obj\Debug\netcoreapp2.2\PiggyBank.genruntimeconfig.cache
+C:\Users\Luan\Desktop\Projetos\PiggyBank\PiggyBank\obj\Debug\netcoreapp2.2\PiggyBank.csproj.CopyComplete
+C:\Users\luanz\OneDrive\Desktop\Projetos\PiggyBank\PiggyBank\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\luanz\OneDrive\Desktop\Projetos\PiggyBank\PiggyBank\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\luanz\OneDrive\Desktop\Projetos\PiggyBank\PiggyBank\bin\Debug\netcoreapp2.2\PiggyBank.deps.json
+C:\Users\luanz\OneDrive\Desktop\Projetos\PiggyBank\PiggyBank\bin\Debug\netcoreapp2.2\PiggyBank.runtimeconfig.json
+C:\Users\luanz\OneDrive\Desktop\Projetos\PiggyBank\PiggyBank\bin\Debug\netcoreapp2.2\PiggyBank.runtimeconfig.dev.json
+C:\Users\luanz\OneDrive\Desktop\Projetos\PiggyBank\PiggyBank\bin\Debug\netcoreapp2.2\PiggyBank.dll
+C:\Users\luanz\OneDrive\Desktop\Projetos\PiggyBank\PiggyBank\bin\Debug\netcoreapp2.2\PiggyBank.pdb
+C:\Users\luanz\OneDrive\Desktop\Projetos\PiggyBank\PiggyBank\bin\Debug\netcoreapp2.2\PiggyBank.Views.dll
+C:\Users\luanz\OneDrive\Desktop\Projetos\PiggyBank\PiggyBank\bin\Debug\netcoreapp2.2\PiggyBank.Views.pdb
+C:\Users\luanz\OneDrive\Desktop\Projetos\PiggyBank\PiggyBank\obj\Debug\netcoreapp2.2\PiggyBank.csproj.AssemblyReference.cache
+C:\Users\luanz\OneDrive\Desktop\Projetos\PiggyBank\PiggyBank\obj\Debug\netcoreapp2.2\PiggyBank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luanz\OneDrive\Desktop\Projetos\PiggyBank\PiggyBank\obj\Debug\netcoreapp2.2\PiggyBank.AssemblyInfoInputs.cache
+C:\Users\luanz\OneDrive\Desktop\Projetos\PiggyBank\PiggyBank\obj\Debug\netcoreapp2.2\PiggyBank.AssemblyInfo.cs
+C:\Users\luanz\OneDrive\Desktop\Projetos\PiggyBank\PiggyBank\obj\Debug\netcoreapp2.2\PiggyBank.csproj.CoreCompileInputs.cache
+C:\Users\luanz\OneDrive\Desktop\Projetos\PiggyBank\PiggyBank\obj\Debug\netcoreapp2.2\PiggyBank.RazorAssemblyInfo.cache
+C:\Users\luanz\OneDrive\Desktop\Projetos\PiggyBank\PiggyBank\obj\Debug\netcoreapp2.2\PiggyBank.RazorAssemblyInfo.cs
+C:\Users\luanz\OneDrive\Desktop\Projetos\PiggyBank\PiggyBank\obj\Debug\netcoreapp2.2\PiggyBank.TagHelpers.input.cache
+C:\Users\luanz\OneDrive\Desktop\Projetos\PiggyBank\PiggyBank\obj\Debug\netcoreapp2.2\PiggyBank.TagHelpers.output.cache
+C:\Users\luanz\OneDrive\Desktop\Projetos\PiggyBank\PiggyBank\obj\Debug\netcoreapp2.2\PiggyBank.RazorCoreGenerate.cache
+C:\Users\luanz\OneDrive\Desktop\Projetos\PiggyBank\PiggyBank\obj\Debug\netcoreapp2.2\Razor\Views\Contas\Create.cshtml.g.cs
+C:\Users\luanz\OneDrive\Desktop\Projetos\PiggyBank\PiggyBank\obj\Debug\netcoreapp2.2\Razor\Views\Contas\Dashboard.cshtml.g.cs
+C:\Users\luanz\OneDrive\Desktop\Projetos\PiggyBank\PiggyBank\obj\Debug\netcoreapp2.2\Razor\Views\Contas\Delete.cshtml.g.cs
+C:\Users\luanz\OneDrive\Desktop\Projetos\PiggyBank\PiggyBank\obj\Debug\netcoreapp2.2\Razor\Views\Contas\DespesaSearch.cshtml.g.cs
+C:\Users\luanz\OneDrive\Desktop\Projetos\PiggyBank\PiggyBank\obj\Debug\netcoreapp2.2\Razor\Views\Contas\Details.cshtml.g.cs
+C:\Users\luanz\OneDrive\Desktop\Projetos\PiggyBank\PiggyBank\obj\Debug\netcoreapp2.2\Razor\Views\Contas\Edit.cshtml.g.cs
+C:\Users\luanz\OneDrive\Desktop\Projetos\PiggyBank\PiggyBank\obj\Debug\netcoreapp2.2\Razor\Views\Contas\Index.cshtml.g.cs
+C:\Users\luanz\OneDrive\Desktop\Projetos\PiggyBank\PiggyBank\obj\Debug\netcoreapp2.2\Razor\Views\Contas\ReceitaSearch.cshtml.g.cs
+C:\Users\luanz\OneDrive\Desktop\Projetos\PiggyBank\PiggyBank\obj\Debug\netcoreapp2.2\Razor\Views\Contas\Records.cshtml.g.cs
+C:\Users\luanz\OneDrive\Desktop\Projetos\PiggyBank\PiggyBank\obj\Debug\netcoreapp2.2\Razor\Views\Despesas\Create.cshtml.g.cs
+C:\Users\luanz\OneDrive\Desktop\Projetos\PiggyBank\PiggyBank\obj\Debug\netcoreapp2.2\Razor\Views\Despesas\Delete.cshtml.g.cs
+C:\Users\luanz\OneDrive\Desktop\Projetos\PiggyBank\PiggyBank\obj\Debug\netcoreapp2.2\Razor\Views\Despesas\Details.cshtml.g.cs
+C:\Users\luanz\OneDrive\Desktop\Projetos\PiggyBank\PiggyBank\obj\Debug\netcoreapp2.2\Razor\Views\Despesas\Edit.cshtml.g.cs
+C:\Users\luanz\OneDrive\Desktop\Projetos\PiggyBank\PiggyBank\obj\Debug\netcoreapp2.2\Razor\Views\Despesas\Index.cshtml.g.cs
+C:\Users\luanz\OneDrive\Desktop\Projetos\PiggyBank\PiggyBank\obj\Debug\netcoreapp2.2\Razor\Views\Home\Help.cshtml.g.cs
+C:\Users\luanz\OneDrive\Desktop\Projetos\PiggyBank\PiggyBank\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\luanz\OneDrive\Desktop\Projetos\PiggyBank\PiggyBank\obj\Debug\netcoreapp2.2\Razor\Views\Home\Menu.cshtml.g.cs
+C:\Users\luanz\OneDrive\Desktop\Projetos\PiggyBank\PiggyBank\obj\Debug\netcoreapp2.2\Razor\Views\Receitas\Create.cshtml.g.cs
+C:\Users\luanz\OneDrive\Desktop\Projetos\PiggyBank\PiggyBank\obj\Debug\netcoreapp2.2\Razor\Views\Receitas\Delete.cshtml.g.cs
+C:\Users\luanz\OneDrive\Desktop\Projetos\PiggyBank\PiggyBank\obj\Debug\netcoreapp2.2\Razor\Views\Receitas\Details.cshtml.g.cs
+C:\Users\luanz\OneDrive\Desktop\Projetos\PiggyBank\PiggyBank\obj\Debug\netcoreapp2.2\Razor\Views\Receitas\Edit.cshtml.g.cs
+C:\Users\luanz\OneDrive\Desktop\Projetos\PiggyBank\PiggyBank\obj\Debug\netcoreapp2.2\Razor\Views\Receitas\Index.cshtml.g.cs
+C:\Users\luanz\OneDrive\Desktop\Projetos\PiggyBank\PiggyBank\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\luanz\OneDrive\Desktop\Projetos\PiggyBank\PiggyBank\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\luanz\OneDrive\Desktop\Projetos\PiggyBank\PiggyBank\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\luanz\OneDrive\Desktop\Projetos\PiggyBank\PiggyBank\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LayoutLogin.cshtml.g.cs
+C:\Users\luanz\OneDrive\Desktop\Projetos\PiggyBank\PiggyBank\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\luanz\OneDrive\Desktop\Projetos\PiggyBank\PiggyBank\obj\Debug\netcoreapp2.2\Razor\Views\Usuarios\Edit.cshtml.g.cs
+C:\Users\luanz\OneDrive\Desktop\Projetos\PiggyBank\PiggyBank\obj\Debug\netcoreapp2.2\Razor\Views\Usuarios\Login.cshtml.g.cs
+C:\Users\luanz\OneDrive\Desktop\Projetos\PiggyBank\PiggyBank\obj\Debug\netcoreapp2.2\Razor\Views\Usuarios\Register.cshtml.g.cs
+C:\Users\luanz\OneDrive\Desktop\Projetos\PiggyBank\PiggyBank\obj\Debug\netcoreapp2.2\Razor\Views\Usuarios\Success.cshtml.g.cs
+C:\Users\luanz\OneDrive\Desktop\Projetos\PiggyBank\PiggyBank\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\luanz\OneDrive\Desktop\Projetos\PiggyBank\PiggyBank\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\luanz\OneDrive\Desktop\Projetos\PiggyBank\PiggyBank\obj\Debug\netcoreapp2.2\PiggyBank.RazorTargetAssemblyInfo.cache
+C:\Users\luanz\OneDrive\Desktop\Projetos\PiggyBank\PiggyBank\obj\Debug\netcoreapp2.2\PiggyBank.RazorTargetAssemblyInfo.cs
+C:\Users\luanz\OneDrive\Desktop\Projetos\PiggyBank\PiggyBank\obj\Debug\netcoreapp2.2\PiggyBank.Views.pdb
+C:\Users\luanz\OneDrive\Desktop\Projetos\PiggyBank\PiggyBank\obj\Debug\netcoreapp2.2\PiggyBank.dll
+C:\Users\luanz\OneDrive\Desktop\Projetos\PiggyBank\PiggyBank\obj\Debug\netcoreapp2.2\PiggyBank.pdb
+C:\Users\luanz\OneDrive\Desktop\Projetos\PiggyBank\PiggyBank\obj\Debug\netcoreapp2.2\PiggyBank.genruntimeconfig.cache
+C:\Users\luanz\OneDrive\Desktop\Projetos\PiggyBank\PiggyBank\obj\Debug\netcoreapp2.2\PiggyBank.csproj.CopyComplete
+D:\Documentos\Portfólio\PiggyBank - Copia\PiggyBank\bin\Debug\netcoreapp2.2\appsettings.Development.json
+D:\Documentos\Portfólio\PiggyBank - Copia\PiggyBank\bin\Debug\netcoreapp2.2\appsettings.json
+D:\Documentos\Portfólio\PiggyBank - Copia\PiggyBank\bin\Debug\netcoreapp2.2\PiggyBank.deps.json
+D:\Documentos\Portfólio\PiggyBank - Copia\PiggyBank\bin\Debug\netcoreapp2.2\PiggyBank.runtimeconfig.json
+D:\Documentos\Portfólio\PiggyBank - Copia\PiggyBank\bin\Debug\netcoreapp2.2\PiggyBank.runtimeconfig.dev.json
+D:\Documentos\Portfólio\PiggyBank - Copia\PiggyBank\bin\Debug\netcoreapp2.2\PiggyBank.dll
+D:\Documentos\Portfólio\PiggyBank - Copia\PiggyBank\bin\Debug\netcoreapp2.2\PiggyBank.pdb
+D:\Documentos\Portfólio\PiggyBank - Copia\PiggyBank\bin\Debug\netcoreapp2.2\PiggyBank.Views.dll
+D:\Documentos\Portfólio\PiggyBank - Copia\PiggyBank\bin\Debug\netcoreapp2.2\PiggyBank.Views.pdb
+D:\Documentos\Portfólio\PiggyBank - Copia\PiggyBank\obj\Debug\netcoreapp2.2\PiggyBank.csproj.AssemblyReference.cache
+D:\Documentos\Portfólio\PiggyBank - Copia\PiggyBank\obj\Debug\netcoreapp2.2\PiggyBank.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\Portfólio\PiggyBank - Copia\PiggyBank\obj\Debug\netcoreapp2.2\PiggyBank.AssemblyInfoInputs.cache
+D:\Documentos\Portfólio\PiggyBank - Copia\PiggyBank\obj\Debug\netcoreapp2.2\PiggyBank.AssemblyInfo.cs
+D:\Documentos\Portfólio\PiggyBank - Copia\PiggyBank\obj\Debug\netcoreapp2.2\PiggyBank.csproj.CoreCompileInputs.cache
+D:\Documentos\Portfólio\PiggyBank - Copia\PiggyBank\obj\Debug\netcoreapp2.2\PiggyBank.RazorAssemblyInfo.cache
+D:\Documentos\Portfólio\PiggyBank - Copia\PiggyBank\obj\Debug\netcoreapp2.2\PiggyBank.RazorAssemblyInfo.cs
+D:\Documentos\Portfólio\PiggyBank - Copia\PiggyBank\obj\Debug\netcoreapp2.2\PiggyBank.TagHelpers.input.cache
+D:\Documentos\Portfólio\PiggyBank - Copia\PiggyBank\obj\Debug\netcoreapp2.2\PiggyBank.TagHelpers.output.cache
+D:\Documentos\Portfólio\PiggyBank - Copia\PiggyBank\obj\Debug\netcoreapp2.2\PiggyBank.RazorCoreGenerate.cache
+D:\Documentos\Portfólio\PiggyBank - Copia\PiggyBank\obj\Debug\netcoreapp2.2\Razor\Views\Home\Help.cshtml.g.cs
+D:\Documentos\Portfólio\PiggyBank - Copia\PiggyBank\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.cshtml.g.cs
+D:\Documentos\Portfólio\PiggyBank - Copia\PiggyBank\obj\Debug\netcoreapp2.2\Razor\Views\Home\Menu.cshtml.g.cs
+D:\Documentos\Portfólio\PiggyBank - Copia\PiggyBank\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Documentos\Portfólio\PiggyBank - Copia\PiggyBank\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+D:\Documentos\Portfólio\PiggyBank - Copia\PiggyBank\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Documentos\Portfólio\PiggyBank - Copia\PiggyBank\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LayoutLogin.cshtml.g.cs
+D:\Documentos\Portfólio\PiggyBank - Copia\PiggyBank\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Documentos\Portfólio\PiggyBank - Copia\PiggyBank\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Documentos\Portfólio\PiggyBank - Copia\PiggyBank\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Documentos\Portfólio\PiggyBank - Copia\PiggyBank\obj\Debug\netcoreapp2.2\PiggyBank.RazorTargetAssemblyInfo.cache
+D:\Documentos\Portfólio\PiggyBank - Copia\PiggyBank\obj\Debug\netcoreapp2.2\PiggyBank.RazorTargetAssemblyInfo.cs
+D:\Documentos\Portfólio\PiggyBank - Copia\PiggyBank\obj\Debug\netcoreapp2.2\PiggyBank.Views.pdb
+D:\Documentos\Portfólio\PiggyBank - Copia\PiggyBank\obj\Debug\netcoreapp2.2\PiggyBank.dll
+D:\Documentos\Portfólio\PiggyBank - Copia\PiggyBank\obj\Debug\netcoreapp2.2\PiggyBank.pdb
+D:\Documentos\Portfólio\PiggyBank - Copia\PiggyBank\obj\Debug\netcoreapp2.2\PiggyBank.genruntimeconfig.cache
+D:\Documentos\Portfólio\PiggyBank - Copia\PiggyBank\obj\Debug\netcoreapp2.2\PiggyBank.csproj.CopyComplete
+D:\Documentos\Portfólio\PiggyBank - Copia\PiggyBank\obj\Debug\netcoreapp2.2\Razor\Views\Accounts\Create.cshtml.g.cs
+D:\Documentos\Portfólio\PiggyBank - Copia\PiggyBank\obj\Debug\netcoreapp2.2\Razor\Views\Accounts\Dashboard.cshtml.g.cs
+D:\Documentos\Portfólio\PiggyBank - Copia\PiggyBank\obj\Debug\netcoreapp2.2\Razor\Views\Accounts\Delete.cshtml.g.cs
+D:\Documentos\Portfólio\PiggyBank - Copia\PiggyBank\obj\Debug\netcoreapp2.2\Razor\Views\Accounts\Details.cshtml.g.cs
+D:\Documentos\Portfólio\PiggyBank - Copia\PiggyBank\obj\Debug\netcoreapp2.2\Razor\Views\Accounts\Edit.cshtml.g.cs
+D:\Documentos\Portfólio\PiggyBank - Copia\PiggyBank\obj\Debug\netcoreapp2.2\Razor\Views\Accounts\ExpenseSearch.cshtml.g.cs
+D:\Documentos\Portfólio\PiggyBank - Copia\PiggyBank\obj\Debug\netcoreapp2.2\Razor\Views\Accounts\Index.cshtml.g.cs
+D:\Documentos\Portfólio\PiggyBank - Copia\PiggyBank\obj\Debug\netcoreapp2.2\Razor\Views\Accounts\Records.cshtml.g.cs
+D:\Documentos\Portfólio\PiggyBank - Copia\PiggyBank\obj\Debug\netcoreapp2.2\Razor\Views\Accounts\RevenueSearch.cshtml.g.cs
+D:\Documentos\Portfólio\PiggyBank - Copia\PiggyBank\obj\Debug\netcoreapp2.2\Razor\Views\Expenses\Create.cshtml.g.cs
+D:\Documentos\Portfólio\PiggyBank - Copia\PiggyBank\obj\Debug\netcoreapp2.2\Razor\Views\Expenses\Delete.cshtml.g.cs
+D:\Documentos\Portfólio\PiggyBank - Copia\PiggyBank\obj\Debug\netcoreapp2.2\Razor\Views\Expenses\Details.cshtml.g.cs
+D:\Documentos\Portfólio\PiggyBank - Copia\PiggyBank\obj\Debug\netcoreapp2.2\Razor\Views\Expenses\Edit.cshtml.g.cs
+D:\Documentos\Portfólio\PiggyBank - Copia\PiggyBank\obj\Debug\netcoreapp2.2\Razor\Views\Expenses\Index.cshtml.g.cs
+D:\Documentos\Portfólio\PiggyBank - Copia\PiggyBank\obj\Debug\netcoreapp2.2\Razor\Views\Revenues\Create.cshtml.g.cs
+D:\Documentos\Portfólio\PiggyBank - Copia\PiggyBank\obj\Debug\netcoreapp2.2\Razor\Views\Revenues\Delete.cshtml.g.cs
+D:\Documentos\Portfólio\PiggyBank - Copia\PiggyBank\obj\Debug\netcoreapp2.2\Razor\Views\Revenues\Details.cshtml.g.cs
+D:\Documentos\Portfólio\PiggyBank - Copia\PiggyBank\obj\Debug\netcoreapp2.2\Razor\Views\Revenues\Edit.cshtml.g.cs
+D:\Documentos\Portfólio\PiggyBank - Copia\PiggyBank\obj\Debug\netcoreapp2.2\Razor\Views\Revenues\Index.cshtml.g.cs
+D:\Documentos\Portfólio\PiggyBank - Copia\PiggyBank\obj\Debug\netcoreapp2.2\Razor\Views\Users\Edit.cshtml.g.cs
+D:\Documentos\Portfólio\PiggyBank - Copia\PiggyBank\obj\Debug\netcoreapp2.2\Razor\Views\Users\Login.cshtml.g.cs
+D:\Documentos\Portfólio\PiggyBank - Copia\PiggyBank\obj\Debug\netcoreapp2.2\Razor\Views\Users\Register.cshtml.g.cs
+D:\Documentos\Portfólio\PiggyBank - Copia\PiggyBank\obj\Debug\netcoreapp2.2\Razor\Views\Users\Success.cshtml.g.cs
+D:\Documentos\Portfólio\PiggyBank\PiggyBank\bin\Debug\netcoreapp2.2\appsettings.Development.json
+D:\Documentos\Portfólio\PiggyBank\PiggyBank\bin\Debug\netcoreapp2.2\appsettings.json
+D:\Documentos\Portfólio\PiggyBank\PiggyBank\bin\Debug\netcoreapp2.2\PiggyBank.deps.json
+D:\Documentos\Portfólio\PiggyBank\PiggyBank\bin\Debug\netcoreapp2.2\PiggyBank.runtimeconfig.json
+D:\Documentos\Portfólio\PiggyBank\PiggyBank\bin\Debug\netcoreapp2.2\PiggyBank.runtimeconfig.dev.json
+D:\Documentos\Portfólio\PiggyBank\PiggyBank\bin\Debug\netcoreapp2.2\PiggyBank.dll
+D:\Documentos\Portfólio\PiggyBank\PiggyBank\bin\Debug\netcoreapp2.2\PiggyBank.pdb
+D:\Documentos\Portfólio\PiggyBank\PiggyBank\bin\Debug\netcoreapp2.2\PiggyBank.Views.dll
+D:\Documentos\Portfólio\PiggyBank\PiggyBank\bin\Debug\netcoreapp2.2\PiggyBank.Views.pdb
+D:\Documentos\Portfólio\PiggyBank\PiggyBank\obj\Debug\netcoreapp2.2\PiggyBank.csproj.AssemblyReference.cache
+D:\Documentos\Portfólio\PiggyBank\PiggyBank\obj\Debug\netcoreapp2.2\PiggyBank.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\Portfólio\PiggyBank\PiggyBank\obj\Debug\netcoreapp2.2\PiggyBank.AssemblyInfoInputs.cache
+D:\Documentos\Portfólio\PiggyBank\PiggyBank\obj\Debug\netcoreapp2.2\PiggyBank.AssemblyInfo.cs
+D:\Documentos\Portfólio\PiggyBank\PiggyBank\obj\Debug\netcoreapp2.2\PiggyBank.csproj.CoreCompileInputs.cache
+D:\Documentos\Portfólio\PiggyBank\PiggyBank\obj\Debug\netcoreapp2.2\PiggyBank.RazorAssemblyInfo.cache
+D:\Documentos\Portfólio\PiggyBank\PiggyBank\obj\Debug\netcoreapp2.2\PiggyBank.RazorAssemblyInfo.cs
+D:\Documentos\Portfólio\PiggyBank\PiggyBank\obj\Debug\netcoreapp2.2\PiggyBank.TagHelpers.input.cache
+D:\Documentos\Portfólio\PiggyBank\PiggyBank\obj\Debug\netcoreapp2.2\PiggyBank.TagHelpers.output.cache
+D:\Documentos\Portfólio\PiggyBank\PiggyBank\obj\Debug\netcoreapp2.2\PiggyBank.RazorCoreGenerate.cache
+D:\Documentos\Portfólio\PiggyBank\PiggyBank\obj\Debug\netcoreapp2.2\Razor\Views\Accounts\Create.cshtml.g.cs
+D:\Documentos\Portfólio\PiggyBank\PiggyBank\obj\Debug\netcoreapp2.2\Razor\Views\Accounts\Dashboard.cshtml.g.cs
+D:\Documentos\Portfólio\PiggyBank\PiggyBank\obj\Debug\netcoreapp2.2\Razor\Views\Accounts\Delete.cshtml.g.cs
+D:\Documentos\Portfólio\PiggyBank\PiggyBank\obj\Debug\netcoreapp2.2\Razor\Views\Accounts\Details.cshtml.g.cs
+D:\Documentos\Portfólio\PiggyBank\PiggyBank\obj\Debug\netcoreapp2.2\Razor\Views\Accounts\Edit.cshtml.g.cs
+D:\Documentos\Portfólio\PiggyBank\PiggyBank\obj\Debug\netcoreapp2.2\Razor\Views\Accounts\ExpenseSearch.cshtml.g.cs
+D:\Documentos\Portfólio\PiggyBank\PiggyBank\obj\Debug\netcoreapp2.2\Razor\Views\Accounts\Index.cshtml.g.cs
+D:\Documentos\Portfólio\PiggyBank\PiggyBank\obj\Debug\netcoreapp2.2\Razor\Views\Accounts\Records.cshtml.g.cs
+D:\Documentos\Portfólio\PiggyBank\PiggyBank\obj\Debug\netcoreapp2.2\Razor\Views\Accounts\RevenueSearch.cshtml.g.cs
+D:\Documentos\Portfólio\PiggyBank\PiggyBank\obj\Debug\netcoreapp2.2\Razor\Views\Expenses\Create.cshtml.g.cs
+D:\Documentos\Portfólio\PiggyBank\PiggyBank\obj\Debug\netcoreapp2.2\Razor\Views\Expenses\Delete.cshtml.g.cs
+D:\Documentos\Portfólio\PiggyBank\PiggyBank\obj\Debug\netcoreapp2.2\Razor\Views\Expenses\Details.cshtml.g.cs
+D:\Documentos\Portfólio\PiggyBank\PiggyBank\obj\Debug\netcoreapp2.2\Razor\Views\Expenses\Edit.cshtml.g.cs
+D:\Documentos\Portfólio\PiggyBank\PiggyBank\obj\Debug\netcoreapp2.2\Razor\Views\Expenses\Index.cshtml.g.cs
+D:\Documentos\Portfólio\PiggyBank\PiggyBank\obj\Debug\netcoreapp2.2\Razor\Views\Home\Help.cshtml.g.cs
+D:\Documentos\Portfólio\PiggyBank\PiggyBank\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.cshtml.g.cs
+D:\Documentos\Portfólio\PiggyBank\PiggyBank\obj\Debug\netcoreapp2.2\Razor\Views\Home\Menu.cshtml.g.cs
+D:\Documentos\Portfólio\PiggyBank\PiggyBank\obj\Debug\netcoreapp2.2\Razor\Views\Revenues\Create.cshtml.g.cs
+D:\Documentos\Portfólio\PiggyBank\PiggyBank\obj\Debug\netcoreapp2.2\Razor\Views\Revenues\Delete.cshtml.g.cs
+D:\Documentos\Portfólio\PiggyBank\PiggyBank\obj\Debug\netcoreapp2.2\Razor\Views\Revenues\Details.cshtml.g.cs
+D:\Documentos\Portfólio\PiggyBank\PiggyBank\obj\Debug\netcoreapp2.2\Razor\Views\Revenues\Edit.cshtml.g.cs
+D:\Documentos\Portfólio\PiggyBank\PiggyBank\obj\Debug\netcoreapp2.2\Razor\Views\Revenues\Index.cshtml.g.cs
+D:\Documentos\Portfólio\PiggyBank\PiggyBank\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Documentos\Portfólio\PiggyBank\PiggyBank\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+D:\Documentos\Portfólio\PiggyBank\PiggyBank\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Documentos\Portfólio\PiggyBank\PiggyBank\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LayoutLogin.cshtml.g.cs
+D:\Documentos\Portfólio\PiggyBank\PiggyBank\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Documentos\Portfólio\PiggyBank\PiggyBank\obj\Debug\netcoreapp2.2\Razor\Views\Users\Edit.cshtml.g.cs
+D:\Documentos\Portfólio\PiggyBank\PiggyBank\obj\Debug\netcoreapp2.2\Razor\Views\Users\Login.cshtml.g.cs
+D:\Documentos\Portfólio\PiggyBank\PiggyBank\obj\Debug\netcoreapp2.2\Razor\Views\Users\Register.cshtml.g.cs
+D:\Documentos\Portfólio\PiggyBank\PiggyBank\obj\Debug\netcoreapp2.2\Razor\Views\Users\Success.cshtml.g.cs
+D:\Documentos\Portfólio\PiggyBank\PiggyBank\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Documentos\Portfólio\PiggyBank\PiggyBank\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Documentos\Portfólio\PiggyBank\PiggyBank\obj\Debug\netcoreapp2.2\PiggyBank.RazorTargetAssemblyInfo.cache
+D:\Documentos\Portfólio\PiggyBank\PiggyBank\obj\Debug\netcoreapp2.2\PiggyBank.RazorTargetAssemblyInfo.cs
+D:\Documentos\Portfólio\PiggyBank\PiggyBank\obj\Debug\netcoreapp2.2\PiggyBank.Views.pdb
+D:\Documentos\Portfólio\PiggyBank\PiggyBank\obj\Debug\netcoreapp2.2\PiggyBank.dll
+D:\Documentos\Portfólio\PiggyBank\PiggyBank\obj\Debug\netcoreapp2.2\PiggyBank.pdb
+D:\Documentos\Portfólio\PiggyBank\PiggyBank\obj\Debug\netcoreapp2.2\PiggyBank.genruntimeconfig.cache
+D:\Documentos\Portfólio\PiggyBank\PiggyBank\obj\Debug\netcoreapp2.2\PiggyBank.csproj.CopyComplete
